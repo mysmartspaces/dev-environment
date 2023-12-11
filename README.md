@@ -1,8 +1,4 @@
-# Convenient microservices development environment with docker-compose 
-
-This repository is example of setup described within this blog: https://medium.com/@kunokdev/convenient-microservices-development-environment-with-docker-compose-8109f012b961
-
-![Cover](https://cdn-images-1.medium.com/max/1600/1*mQYvxyb44m6QKXCGQAirSA.jpeg)
+#  An Innovative multi development smartspace Project
 
 ## 🤢 Problem to solve
 
